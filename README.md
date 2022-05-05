@@ -1,6 +1,6 @@
 # Glei Hoxhalli
 
-### Tippie College of Business, The University of Iowa
+#### Tippie College of Business, The University of Iowa
 
 [LinkedIn](https://www.linkedin.com/in/glei-hx/) 
 <!--
