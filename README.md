@@ -4,8 +4,7 @@ Iowa City, IA
 
 Hoxhalli@uiowa.edu
 
-LinkedIn(https://www.linkedin.com/in/glei-hx/)
-
+[LinkedIn](https://www.linkedin.com/in/glei-hx/) 
 <!--
 **Glei-H/Glei-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
